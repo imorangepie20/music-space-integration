@@ -1,0 +1,12 @@
+[submodule "humamAppleTeamPreject001"]
+	path = humamAppleTeamPreject001
+	url = https://github.com/imorangepie20/humamAppleTeamPreject001.git
+[submodule "imapplepieTemplate001"]
+	path = imapplepieTemplate001
+	url = https://github.com/imorangepie20/imapplepieTemplate001.git
+[submodule "2TeamFinalProject-BE"]
+	path = 2TeamFinalProject-BE
+	url = https://github.com/imorangepie20/2TeamFinalProject-PB.git
+[submodule "FAST_API"]
+	path = FAST_API
+	url = https://github.com/imorangepie20/FAST_API-PB.git
